@@ -10,6 +10,13 @@
 
             <class name="base.BaseTest"></class>
             <class name="tests.LoginPageTest"></class>
+            <class name="tests.ProductsPageTest"></class>
+            <class name="tests.CartPageTest"></class>
+            <class name="tests.ProductDetailsPageTest"></class>
+            <class name="tests.ChekoutPageTest"></class>
+            <class name="tests.OverviewPageTest"></class>
+            <class name="tests.OrderCompletePageTest"></class>
+
 
 
 
